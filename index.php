@@ -23,7 +23,7 @@
     <meta property="og:type" content="website">
   </head>
   <body data-home-page="GlucoTrust.html" data-home-page-title="GlucoTrust" class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-06b3"><div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
-        <a href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam" class="u-black u-border-2 u-border-hover-palette-1-base u-border-white u-btn u-btn-round u-button-style u-hover-palette-1-base u-radius-50 u-btn-1">OFFICIAL WEBSITE</a>
+        <a href="https://bit.ly/3xEITJR" class="u-black u-border-2 u-border-hover-palette-1-base u-border-white u-btn u-btn-round u-button-style u-hover-palette-1-base u-radius-50 u-btn-1">OFFICIAL WEBSITE</a>
         <h3 class="u-text u-text-default u-text-1"><b>100% MONEY BACK&nbsp;GUARANTEE</b>
         </h3>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -62,7 +62,7 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-white u-layout-cell-1" src="">
                 <div class="u-container-layout u-valign-bottom-sm u-container-layout-1">
                   <h1 class="u-align-center u-text u-text-custom-color-4 u-text-1">
-                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam"><b>GLUCOTRUST </b>
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="https://bit.ly/3xEITJR"><b>GLUCOTRUST </b>
                     </a>
                   </h1>
                   <h1 class="u-align-center u-text u-text-2"><b> ORDER T​ODAY AND SAVE UPTO 762$!</b>
@@ -77,12 +77,12 @@
                   </p>
                   <p class="u-align-center u-text u-text-7">Start using <b>GlucoTrust</b> Today, and see the <b>results </b>for <b>yourself</b>.
                   </p>
-                  <a href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-4 u-hover-none u-btn-2"> YES, GIVE ME MY DISCOUNT LINK!</a>
-                  <a href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam" class="u-btn u-button-style u-none u-text-custom-color-4 u-text-hover-black u-btn-3">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-4 u-icon-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+                  <a href="https://bit.ly/3xEITJR" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-4 u-hover-none u-btn-2"> YES, GIVE ME MY DISCOUNT LINK!</a>
+                  <a href="https://bit.ly/3xEITJR" class="u-btn u-button-style u-none u-text-custom-color-4 u-text-hover-black u-btn-3">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-4 u-icon-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
                   </a>
                 </div>
               </div>
-              <div class="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="400" data-image-height="400" data-href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam">
+              <div class="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="400" data-image-height="400" data-href="https://bit.ly/3xEITJR">
                 <div class="u-container-layout u-container-layout-2" src=""></div>
               </div>
             </div>
@@ -99,7 +99,7 @@
     </section>
     <section class="u-clearfix u-section-3" id="sec-0ee1">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/soharsh.PNG" alt="" data-image-width="943" data-image-height="752" data-href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam">
+        <img class="u-image u-image-default u-image-1" src="images/soharsh.PNG" alt="" data-image-width="943" data-image-height="752" data-href="https://bit.ly/3xEITJR">
       </div>
     </section>
     <section class="u-align-center u-clearfix u-custom-color-4 u-section-4" id="carousel_d25c">
@@ -184,7 +184,7 @@ properties that can prevent numerous diseases.
     </section>
     <section class="u-clearfix u-section-9" id="carousel_7aa3">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/soharsh.PNG" alt="" data-image-width="943" data-image-height="752" data-href="https://www.google.com/url?q=https%3A%2F%2Ftrack.trackingabc.com%2F59beea17-fe35-4609-b479-d6e950c38b63%3Fcampaignid%3D%257Bcam">
+        <img class="u-image u-image-default u-image-1" src="images/soharsh.PNG" alt="" data-image-width="943" data-image-height="752" data-href="https://bit.ly/3xEITJR">
       </div>
     </section>
     
